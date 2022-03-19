@@ -1,1 +1,1 @@
-My first readme
+hi i am alx student from ethiopia
